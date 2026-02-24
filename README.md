@@ -19,8 +19,8 @@ This project predicts whther a person has Good or Bad credit risk using Machine 
 
 **How to run:**
 
-- git clone https://github.com/AsishChellamani/Credit-Risk-Predictor.git
-- cd Credit-Risk-Predictor
+- git clone https://github.com/AsishChellamani/Credit_Risk_Predictor.git
+- cd Credit_Risk_Predictor
 
 - pip install pandas numpy matplotlib seaborn scikit-learn xgboost joblib
 
